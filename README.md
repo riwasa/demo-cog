@@ -1,2 +1,2 @@
 # demo-cog
-Demonstration of Azure Cognitive Services
+Demonstration of Azure Cognitive Services.
